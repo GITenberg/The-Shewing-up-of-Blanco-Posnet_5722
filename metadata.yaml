@@ -1,0 +1,30 @@
+_repo: The-Shewing-up-of-Blanco-Posnet_5722
+_version: 0.0.1
+alternative_title: The Showing-up of Blanco Posnet
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horse stealing -- Drama'
+- !lcc 'PR'
+- !lcsh 'Censorship'
+- !lcsh 'West (U.S.) -- Drama'
+- GITenberg
+title: The Shewing-up of Blanco Posnet
+url: http://www.gutenberg.org/ebooks/5722
